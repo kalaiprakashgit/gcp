@@ -13,7 +13,7 @@ GC compute  -  Compute engine (Iaas, suitable server migration, ), Container Eng
 App Engine, Kubernetes, amanage application), GC Application(Paas, Managed service, scalability) ,
 GC functions (event driven, trigger)
 Comparision compute options
- - Cloud function -- Events, Function definitions
- - App Engine - Code, Http Requests . | support Programing lang, Container
- - Container engine -  Applications , What programs, how connected? state | hybrid, needs metwork protocols
- - Compute Engine - Load balancee, OS , Disk Image, | licensing req
+ - Cloud function -- Events, Function definitions . --> event driven
+ - App Engine - Code, Http Requests . | support Programing lang, Container . --> web facing code
+ - Container engine -  Applications , What programs, how connected? state | hybrid, needs metwork protocols --> containerized application
+ - Compute Engine - Load balancee, OS , Disk Image, | licensing req --> Existing system
