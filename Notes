@@ -8,3 +8,4 @@ cloud shell to manage resources without installing SDK
 RestFul API - Programatically access GCP resources, uses JSON, Oauth2
 cloud shell - Persistant 5 GB storage, limit to 1 hour idle time session will be lost
 usage gcloud <double tab> gives Group commands
+experiement API commands through https://developers.google.com/apis-explorer
