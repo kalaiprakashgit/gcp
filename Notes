@@ -4,3 +4,7 @@ what is policy (collection of roles)
 Type of roles ? (Premitive, Predefined, custom roles)
 way to handle GC resources? (SDK,Console,API)
 SDK GC resources (gcloud - > common tasks, gsutil --> storage, bq --> bug query)
+cloud shell to manage resources without installing SDK
+RestFul API - Programatically access GCP resources, uses JSON, Oauth2
+cloud shell - Persistant 5 GB storage, limit to 1 hour idle time session will be lost
+usage gcloud <double tab> gives Group commands
