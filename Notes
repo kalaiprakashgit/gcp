@@ -1,0 +1,6 @@
+How resources organized? (organization, project, resources)
+What is roles? (collection of permission)
+what is policy (collection of roles)
+Type of roles ? (Premitive, Predefined, custom roles)
+way to handle GC resources? (SDK,Console,API)
+SDK GC resources (gcloud - > common tasks, gsutil --> storage, bq --> bug query)
