@@ -9,3 +9,5 @@ RestFul API - Programatically access GCP resources, uses JSON, Oauth2
 cloud shell - Persistant 5 GB storage, limit to 1 hour idle time session will be lost
 usage gcloud <double tab> gives Group commands
 experiement API commands through https://developers.google.com/apis-explorer
+GC compute  -  Compute engine (Iaas, suitable server migration, ), Container Engine (de coupled aaplication components, 
+ App Engine, Kubernetes, amanage application), GC Application(Paas, Managed service, scalability) GC functions (event driven, trigger)
