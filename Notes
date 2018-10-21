@@ -18,3 +18,9 @@ Comparision compute options
  - Container engine -  Applications , What programs, how connected? state | hybrid, needs metwork protocols --> containerized application
  - Compute Engine - Load balancee, OS , Disk Image, | licensing req --> Existing system
 Iaas -Virtual version of physical server
+Instance Basics
+  - should be lowercase
+  - Charged always for storgae
+  -GPU option is not available in Cental zone
+  - Compute engine default service account  to VM with defauly access
+  - equivelant linl provides RestFul API and command line 
