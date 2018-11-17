@@ -1,0 +1,35 @@
+
+Permission:
+-----------
+Don't place organization resources in on project
+Principle1: 
+Different scopes of access - different project - prod & dev
+Priniciple:
+Example : security team needs details visibilty to all projects in organization - Org view / Proj view.
+
+
+Cloud Storage
+
+-IAM - bucket
+- Signed URL/ACL . - object level
+
+
+Penerating Test
+
+- should be same as avenue as a real attack
+- Example: 
+
+Network Methods 
+
+Projects - isolation account access
+
+VPC - isolate resources (e.g groups of VMSs)
+
+IAM roless divde by GCP services, not VPCS
+
+
+FIREWALL
+
+- FW contols access at instance level , not LB
+- Network Load balancer  =  209.85.152.0/22, 209.85.204.0/22 and 35.191.0.0/16
+- HTTP(s)/SSL PROXY/TCP PROXY/internal LB = 130.211.0.0/22 and 35.191.0.0/16
