@@ -1,0 +1,60 @@
+
+https://cloud.google.com/storage-options
+
+Unstructed DATA - Cloud Storage
+SQL - CloudSQL & Spanner
+NoSQL - Bigtable and Datastore
+Bigdata analysis(SQL Queries) - Google BigQuery . (DATA warehouse)
+In-memory(REDIS) - Cloud MemoryStore
+
+Multi Regional
+- Cloud Storage & Spanner
+
+
+Cloud Storage
+1. Unstructured 
+2.Pay per use  no preallocated
+
+
+
+CloudSQl
+- Managed SQL
+-Signle Zone
+-Terra byte Zone
+
+Cloud Spanner
+-Fully Managed
+-multi Region - Cross Region
+- More expensive ($0.90/hr/node)
+
+
+Cloud Datastore
+- Fully Managed
+- nOSQL (Semi structure, ACID)
+- scalable to Zero to TB
+-Ideal for web and mobile application (Eg. MountKrik Games)
+
+Cloud Bigtable
+1. Bigtable is the best target. It is HBase compatible and ideal for high speed, analytical, NoSQL workloads.
+2. fully Manged NOSQL
+3. More suitabale for analysis
+4. more expensice
+5. HBase
+6.Ideal for terabytes and larger database (PB)
+
+
+Cloud BigQuery
+
+- Fully managed
+-High capacity Data warehouse/analytics
+-big data exploration and processing
+-not ideal for operation database
+- SQL Queries
+-Mountkrik Games and TerramEarth case Studies
+
+Memorystore
+-Regional
+- upto 300GB
+- basic and Standard (HA) Tier
+
+
