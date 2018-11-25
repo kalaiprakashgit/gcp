@@ -1,0 +1,6 @@
+Role types
+There are three types of roles in Cloud IAM:
+
+Primitive roles, which include the Owner, Editor, and Viewer roles that existed prior to the introduction of Cloud IAM
+Predefined roles, which provide granular access for a specific service and are managed by GCP
+Custom roles, which provide granular access according to a user-specified list of permissions
